@@ -28,7 +28,7 @@
 		"@nestjs/typeorm": "^6.1.2",
 		"apollo-server-express": "^2.6.8",
 		"class-transformer": "^0.2.3",
-		"firebase-admin": "^8.2.0",
+		"firebase-admin": "^11.4.1",
 		"graphql": "^14.4.2",
 		"passport": "^0.4.0",
 		"passport-http-bearer": "^1.0.1",
